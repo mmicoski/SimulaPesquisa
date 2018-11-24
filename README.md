@@ -17,5 +17,5 @@ Simulando 10 coletas com 964 veículos cada, obtemos valores como os abaixo:
 <br><br>
 Simulando 100 coletas com 964 veículos cada, obtemos valores como os abaixo.
 ![10000 amostras (verde=ônibus)](a1f3.png)
-<br>A coleta 8, destacada em amarelo, representa um caso em que o valor real quase saiu fora da barra de incerteza.
+<br>A coleta 24, destacada em amarelo, representa um caso em que o valor real quase saiu fora da barra de incerteza.
 
