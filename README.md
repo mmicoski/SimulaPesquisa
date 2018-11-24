@@ -2,7 +2,7 @@
 Programa simples em Python para gerar uma amostra com ocorrência aleatória de uma característica, e simular uma pesquisa para descobrir a proporção dessa característica.<br>
 Requisitos:<br>
 - Roda em Python 2 e em Python 3.
-- Para mostrar os gráficos, precisa da matplotlib.
+- Para mostrar os gráficos, precisa da matplotlib (pip install Pillow).
 
 ## Exemplo:
 O exemplo abaixo é o executado pelo programa em sua forma original.
